@@ -1,0 +1,26 @@
+<ion-view title="movie">
+  <ion-content class="has-header">
+       <div class="list card">
+            <div class="item">
+              {{movie}}
+              <h3>"Relesed in: "{{movie.releaseYear}}</h3>
+                <h2>"Director: "{{movie.director}}</h2>
+                <h2>"Who made a "{{movie.genre}}</h2>
+            </div>
+            <div class="item tabs tabs-secondary tabs-icon-left">
+                <a class="tab-item">
+                    <i class="icon ion-thumbsup"></i>
+                    Like
+                </a>
+                <a class="tab-item">
+                    <i class="icon ion-chatbox"></i>
+                    Comment
+                </a>
+                <a class="tab-item">
+                    <i class="icon ion-share"></i>
+                    Share
+                </a>
+            </div>
+        </div>
+  </ion-content>
+</ion-view>

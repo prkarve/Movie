@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/SECTION-A/ActiveDirectories/MobileWork/movie/platforms/android/build/intermediates/assets/debug/www/plugins/com.ionic.keyboard/www/keyboard.js",
+        "D:/SECTION-A/ActiveDirectories/MobileWork/movie/www/js/services.js",
+        "D:/SECTION-A/ActiveDirectories/MobileWork/movie/gulpfile.js",
+        "D:/SECTION-A/ActiveDirectories/MobileWork/movie/platforms/android/build/intermediates/assets/debug/www/lib/ionic/js/ionic.min.js",
+        "D:/SECTION-A/ActiveDirectories/MobileWork/movie/www/lib/ionic/js/ionic.min.js"
+    ]
+}
